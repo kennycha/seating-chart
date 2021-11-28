@@ -11,3 +11,5 @@
   - Rotate Camera by Dragging Mouse Buttons
 
   - Visit Member's Introduction Page by Clicking the Name Plane
+
+  - Change Camera Mode to Orthographic by Pressing Shift Key
